@@ -1,11 +1,16 @@
 _repo: Nat-the-Navigator-A-Life-of-Nathaniel-Bowditch-For-Young-Persons_61092
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61092-h/images/cover.jpg
 creator:
   author:
     agent_name: Bowditch, Henry Ingersoll
     gutenberg_agent_id: '51250'
     url: http://www.gutenberg.org/2009/agents/51250
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61092#Nat-the-Navigator-A-Life-of-Nathaniel-Bowditch-For-Young-Persons
 gutenberg_issued: '2020-01-03'
 gutenberg_type: Text
 identifiers:
